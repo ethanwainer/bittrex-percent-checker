@@ -1,0 +1,27 @@
+{
+  "name": "bittrex-percent-checker",
+  "version": "1.0.0",
+  "description": "gets price increase %s from bittrex",
+  "main": "priceChecker.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanwainer/bittrex-percent-checker.git"
+  },
+  "keywords": [
+    "bittrex",
+    "cryptocurrency",
+    "crypto-checker"
+  ],
+  "author": "Ethan Wainer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethanwainer/bittrex-percent-checker/issues"
+  },
+  "homepage": "https://github.com/ethanwainer/bittrex-percent-checker#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
